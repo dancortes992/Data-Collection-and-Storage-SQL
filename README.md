@@ -4,7 +4,7 @@ Technical project as part of the Tipleten data science practicum. The main focus
 
 ## Description
 
-Analysis of provided data on behalf on "Zuber" ride sharing to understand patterns in passenger prefrences and the impact on external factors on rides.
+Analysis of provided data on behalf on hypothetical "Zuber" ride sharing to understand patterns in passenger prefrences and the impact on external factors on rides.
 
 Information available in each data set consists of:
 
